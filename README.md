@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm rinky230</h1>
 <h3 align="center">A passionate developer and programmer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1nERRtLgu_l7Hlbl7KTfrCgL8OTD195Yn/view?usp=sharing](https://drive.google.com/file/d/1nERRtLgu_l7Hlbl7KTfrCgL8OTD195Yn/view?usp=sharing)
+- 👨‍💻 my resume [https://drive.google.com/file/d/1nERRtLgu_l7Hlbl7KTfrCgL8OTD195Yn/view?usp=sharing](https://drive.google.com/file/d/1nERRtLgu_l7Hlbl7KTfrCgL8OTD195Yn/view?usp=sharing)
 
 - 💬 Ask me about **web and programming related stuff**
 
